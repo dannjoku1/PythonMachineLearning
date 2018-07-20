@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="34484acf-2f10-42ff-bb08-4af3ac9a66f7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/regression.py" afterPath="$PROJECT_DIR$/regression.py" />
+      <change beforePath="$PROJECT_DIR$/linearregression.pickle" afterPath="$PROJECT_DIR$/linearregression.pickle" />
+      <change beforePath="$PROJECT_DIR$/regression.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="regression.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/regression.py">
+      <file leaf-file-name="linearRegression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linearRegression2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linearRegression2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,6 +57,8 @@
       <list>
         <option value="$PROJECT_DIR$/regression-basics.py" />
         <option value="$PROJECT_DIR$/regression.py" />
+        <option value="$PROJECT_DIR$/linear-regression2.py" />
+        <option value="$PROJECT_DIR$/linearRegression2.py" />
       </list>
     </option>
   </component>
@@ -255,10 +268,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="750">
           <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linearRegression2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
