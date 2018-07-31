@@ -13,6 +13,7 @@ def best_fit_slope_and_intercept(xs, ys):
     b = mean(ys) - m*mean(xs)
     return m,b
 
+# r^2 = 1 - SEy^ / SEy-
 def squared_error(ys_orig, ys_line):
     return sum(( ys_line-ys_orig)**2)
 
